@@ -17,4 +17,4 @@ The findings of this project will be implemented in developing targeted
 therapies and also in designing future clinical trials, thereby improving
 the track record of HFpEF clinical trials. 
 
-![](https://github.com/hnouraei/HN_Portfolio/blob/gh-pages/images/data-graphic-animation.gif)
+![](/images/data-graphic-animation.gif)
