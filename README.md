@@ -1,4 +1,4 @@
-# Data Science portfolio
+# PROJECT PORTFOLIO
 
 # [Classification of Heart Failure With Preserved Ejection Fraction](https://github.com/hnouraei/Projects)
 
