@@ -1,16 +1,12 @@
 # ABOUT 
 Data science professional with a robust background in statistical analysis and data modeling obtained over eight years of applied research and relevant work. Goal-driven, great listener, strong communicator, capable of working individually or as part of a team.
 
-## JOURNAL PUBLICATION LIST
-
-[https://bit.ly/HNPublications](https://bit.ly/HNPublications) (Google Scholar)
+## JOURNAL PUBLICATIONs: [https://bit.ly/HNPublications](https://bit.ly/HNPublications) (Google Scholar)
 
 # CONTACT ME
-## EMAIL
-Nouraei@gmail.com 
+## EMAIL: Nouraei@gmail.com 
 
-## LINKEDIN
-[https://www.linkedin.com/in/hooman-nouraei/](https://www.linkedin.com/in/hooman-nouraei/)
+## Linkedin: [https://www.linkedin.com/in/hooman-nouraei/](https://www.linkedin.com/in/hooman-nouraei/)
 
 # PROJECT 1
 ## [Classification of Heart Failure With Preserved Ejection Fraction](https://github.com/hnouraei/Projects)
