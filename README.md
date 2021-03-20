@@ -3,7 +3,7 @@ Data science professional with a robust background in statistical analysis and d
 
 #### JOURNAL PUBLICATIONs: [https://bit.ly/HNPublications](https://bit.ly/HNPublications) (Google Scholar)
 
-## CONTACT ME
+## CONTACT 
 #### EMAIL: [Nouraei@gmail.com](nouraei@gmail.com)
 
 #### Linkedin: [https://www.linkedin.com/in/hooman-nouraei/](https://www.linkedin.com/in/hooman-nouraei/)
