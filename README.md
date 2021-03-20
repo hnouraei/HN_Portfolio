@@ -4,7 +4,8 @@ Data science professional with a robust background in statistical analysis and d
 #### JOURNAL PUBLICATIONs: [https://bit.ly/HNPublications](https://bit.ly/HNPublications) (Google Scholar)
 
 ## CONTACT 
-#### EMAIL: [Nouraei@gmail.com](nouraei@gmail.com)                        #### Linkedin: [https://www.linkedin.com/in/hooman-nouraei/](https://www.linkedin.com/in/hooman-nouraei/)
+#### EMAIL: [Nouraei@gmail.com](nouraei@gmail.com)                        
+#### Linkedin: [https://www.linkedin.com/in/hooman-nouraei/](https://www.linkedin.com/in/hooman-nouraei/)
 
 # PROJECT 1
 ## [Classification of Heart Failure With Preserved Ejection Fraction](https://github.com/hnouraei/Projects)
