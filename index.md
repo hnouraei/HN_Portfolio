@@ -25,4 +25,4 @@ on cardiovascular syndrome data. I identified 6 clinically relevant HFpEF patien
 be implemented in developing targeted therapies and also in designing future clinical trials, thereby improving
 the track record of HFpEF clinical trials. 
 
-![](/images/AverageLinkage.png)
+![Image](/images/AverageLinkage.png)
