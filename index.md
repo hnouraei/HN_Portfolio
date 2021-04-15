@@ -1,5 +1,5 @@
 ### ABOUT 
-Data science professional with a robust background in statistical analysis and data modeling obtained over eight years of applied research and relevant work. Goal-driven, great listener, strong communicator, capable of working individually or as part of a team.
+Senior data science professional with a robust background in statistical analysis and data modeling obtained over eight years of applied research and relevant work. Goal-driven, great listener, strong communicator, capable of working individually or as part of a team.
 
 JOURNAL PUBLICATIONs: [https://bit.ly/HNPublications](https://bit.ly/HNPublications) (Google Scholar)
 
