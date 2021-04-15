@@ -8,7 +8,7 @@ EMAIL: [Nouraei@gmail.com](nouraei@gmail.com)
 Linkedin: [https://www.linkedin.com/in/hooman-nouraei/](https://www.linkedin.com/in/hooman-nouraei/)
 
 ### PROJECT 1
-#### [Classification of Heart Failure With Preserved Ejection Fraction](https://github.com/hnouraei/Projects)
+#### [Clustering of Heart Failure With Preserved Ejection Fraction](https://github.com/hnouraei/Projects)
 
 Description: Heart failure with preserved ejection fraction (HFpEF) is a
 clinical syndrome in need of improved phenotypic classification. The
