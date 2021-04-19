@@ -15,6 +15,7 @@ clinical syndrome in need of improved phenotypic classification. The
 objective was to evaluate whether unbiased clustering analysis using
 dense phenotypic data could identify phenotypically distinct HFpEF
 categories.
+
 In this project, I focused on developing a high-density phenotypic
 classification of clinical cardiovascular syndrome. I modeled unbiased
 cluster analysis of dense phenotypic data from multiple domains in
